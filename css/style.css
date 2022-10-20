@@ -1,0 +1,26 @@
+
+body{
+    height: 100vh;
+    background-image: linear-gradient(to right top, #051937, #002567, #002d97, #3d2cc4, #7912eb);
+}
+.container{
+    display: flex;
+align-items: center;
+justify-content: center;
+align-content: center;
+
+}
+.form-container{
+    margin-top: 10%;
+}
+
+
+input , select {
+    height: 40px;
+}
+input{
+    width: 400px;
+}
+select{
+    width: 200px;
+}
